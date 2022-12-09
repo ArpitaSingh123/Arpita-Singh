@@ -13,7 +13,7 @@ I am Arpita Singh , I enjoy using my skills to contribute to the exciting techno
 - 📫 Find me on: 
 <p>&nbsp;</p>
 <div align="center">
-  <a href="https://www.figma.com/files/user/1176907593080848809?fuid=1176907593080848809">
+  <a href="https://www.figma.com/files/user/1183050803900533489?fuid=1183050803900533489">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   </a>
   <a href="https://www.hackerearth.com/@arpitasinghbst111">

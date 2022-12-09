@@ -22,10 +22,7 @@ I am Arpita Singh , I enjoy using my skills to contribute to the exciting techno
   <a href="https://www.hackerrank.com/arpitasinghbst11?hr_r=1">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/20730276/arpita-singh">
- 
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverFlow Badge"/>
-  </a>
+  
   <a href="https://www.quora.com/profile/Arpita-Singh-1070">
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="Quora Badge"/>
   </a>
